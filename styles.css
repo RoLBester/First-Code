@@ -1,0 +1,48 @@
+body {background-image: url("https://wallpapercave.com/wp/AUo7feA.jpg")
+  ;width: 100%;height:550px;}
+  
+  h1 {color: rgb(196, 154, 17);}
+  
+ 
+  .Manoj{font-size:larger;}
+  .Manoj{color:rgb(241, 185, 0);}
+  .Manoj{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+  .Manoj{font-weight: 80;}
+  
+  .Manoj2{font-weight: 80;}
+  .Manoj2{font-size:larger;}
+  .Manoj2{color:rgb(196, 154, 17);}
+  .Manoj2{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+  
+  .Manoj3{font-weight: 90;}
+  .Manoj3{font-size:larger;}
+  .Manoj3{color:rgb(196, 154, 17);}
+  .Manoj3{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+   
+  .Manoj4{font-weight: 90;}
+  .Manoj4{font-size:larger;}
+  .Manoj4{color:rgb(196, 154, 17);}
+  .Manoj4{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+  a { padding: 10px;
+       background-color: rgb(196, 154, 17);
+       color:rgb(0, 0, 0);
+       text-decoration:none;}
+        
+   .center-container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 400px;}
+  
+    #myButton:hover {
+    background-color: rgb(146, 188, 216);
+    color: rgb(119, 119, 119);}
+  
+    #myButton2:hover {
+      background-color: rgb(146, 188, 216);
+      color: rgb(0, 0, 0);}
+      
+    
+   
